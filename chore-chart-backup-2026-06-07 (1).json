@@ -1,0 +1,148 @@
+{
+  "children": [
+    {
+      "id": 1,
+      "name": "Chi",
+      "age": 11,
+      "emoji": "🦄",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": 2,
+      "name": "Levi",
+      "age": 9,
+      "emoji": "🐺",
+      "color": "#4ecdc4"
+    },
+    {
+      "id": 3,
+      "name": "Azzy",
+      "age": 6,
+      "emoji": "🐶",
+      "color": "#f9ca24"
+    },
+    {
+      "id": 4,
+      "name": "Rex",
+      "age": 3,
+      "emoji": "🦕",
+      "color": "#a29bfe"
+    }
+  ],
+  "chores": [
+    {
+      "id": 1,
+      "name": "Wash dishes",
+      "emoji": "🍽️",
+      "minAge": 9,
+      "maxAge": null,
+      "frequency": "daily"
+    },
+    {
+      "id": 2,
+      "name": "Take out recycling",
+      "emoji": "🗑️",
+      "minAge": 9,
+      "maxAge": null,
+      "frequency": "daily",
+      "days": []
+    },
+    {
+      "id": 3,
+      "name": "Vacuum",
+      "emoji": "🧹",
+      "minAge": 9,
+      "maxAge": null,
+      "frequency": "daily",
+      "days": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Feed birds",
+      "emoji": "🐦",
+      "minAge": 3,
+      "maxAge": null,
+      "frequency": "everyone",
+      "days": []
+    },
+    {
+      "id": 5,
+      "name": "Clean room",
+      "emoji": "🛏",
+      "minAge": 5,
+      "maxAge": null,
+      "frequency": "everyone",
+      "days": []
+    },
+    {
+      "id": 6,
+      "name": "Brush teeth",
+      "emoji": "🪥",
+      "minAge": 3,
+      "maxAge": null,
+      "frequency": "everyone",
+      "days": []
+    },
+    {
+      "id": 7,
+      "name": "Help Rex with ALL his chores",
+      "emoji": "✅",
+      "minAge": 9,
+      "maxAge": null,
+      "frequency": "daily",
+      "days": []
+    },
+    {
+      "id": 8,
+      "name": "Wipe down toilet",
+      "emoji": "🚽",
+      "minAge": 6,
+      "maxAge": null,
+      "frequency": "daily",
+      "days": []
+    },
+    {
+      "id": 9,
+      "name": "Sweep patio",
+      "emoji": "🧹",
+      "minAge": 5,
+      "maxAge": null,
+      "frequency": "daily",
+      "days": []
+    },
+    {
+      "id": 10,
+      "name": "Wipe cabinets",
+      "emoji": "🧼",
+      "minAge": 3,
+      "maxAge": 6,
+      "frequency": "daily",
+      "days": []
+    },
+    {
+      "id": 11,
+      "name": "Clean up shoes",
+      "emoji": "👟",
+      "minAge": 3,
+      "maxAge": 3,
+      "frequency": "daily",
+      "days": []
+    },
+    {
+      "id": 12,
+      "name": "Laundry",
+      "emoji": "🧺",
+      "minAge": 6,
+      "maxAge": null,
+      "frequency": "daily",
+      "days": []
+    }
+  ],
+  "rotation": "daily",
+  "completed": {},
+  "completedAt": {},
+  "startDate": "2026-06-07"
+}
